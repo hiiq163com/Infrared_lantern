@@ -41,12 +41,8 @@ MEL7135 is used as current source(350mA pre chip). SMT3030 infrared LED is used.
 PIR sensor can be used as IRQ to MCU and futher opertion(enable the infrared LED) can be added if needed.
 ![image](https://github.com/user-attachments/assets/fb4450b8-45f0-48cb-92f2-2b0e63ed1383)
 
-# M2 screw
-the holes are added in each corner of the board.
 
-
-
-#PCB
+# PCB
 
 Top View
 
@@ -58,7 +54,15 @@ Bottom View
 
 
 
-BOM:
+# BOM:
+To get the further detail decription， search the “JCL code” in https://www.szlcsc.com/
 ![image](https://github.com/user-attachments/assets/f07806ee-6180-4ed9-aa98-42f62911ccf3)
 
+
+
+# M2 screw/PCB size
+the holes are added in each corner of the board.
+<img width="880" alt="image" src="https://github.com/user-attachments/assets/330a89b7-5cc6-4810-b065-fceacc83e1aa" />
+# Final
+<img width="536" alt="image" src="https://github.com/user-attachments/assets/1fa58d57-5a33-4fb6-9248-7b2d3f33d6e5" />
 
